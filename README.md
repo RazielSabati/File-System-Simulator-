@@ -38,11 +38,11 @@ There are two main functions in the simulation:
 To compile the program, run:
 
 ```bash
-g++ main.cpp sim_mem.cpp -o ex4
+g++ main.cpp sim_mem.cpp -o main
 ```
 
 ## To run the program, use
 
 ```bash
-./ex4
+./main
 ```
